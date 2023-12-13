@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Polygon","coordinates":[[[-36.276189706999958,-6.600266521999913],[-36.277595202999919,-6.6008766109999328],[-36.277097475999938,-6.6020289659999207],[-36.276195552999923,-6.6016314629999329],[-36.27635704599993,-6.6012522969999168],[-36.275858442999947,-6.6010370929999453],[-36.276189706999958,-6.600266521999913]]]},"properties":{"OID":0,"Name":"CANTEIRO NORTE","FolderPath":"CANTEIRO NORTE.kmz","SymbolID":0,"AltMode":0,"Base":0,"Clamped":-1,"Extruded":0,"Snippet":"","PopupInfo":""}}]
+}
