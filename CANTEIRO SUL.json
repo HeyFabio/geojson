@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":0,"geometry":{"type":"Polygon","coordinates":[[[-36.462057742999946,-6.7964830319999123],[-36.461559593999937,-6.7962307779999378],[-36.461894385999926,-6.7954019519999065],[-36.462382324999908,-6.7956641549999404],[-36.462057742999946,-6.7964830319999123]]]},"properties":{"OID":0,"Name":"Polígono sem título","FolderPath":"canteiro sul.kmz","SymbolID":0,"AltMode":0,"Base":0,"Clamped":-1,"Extruded":0,"Snippet":"","PopupInfo":""}}]
+}
